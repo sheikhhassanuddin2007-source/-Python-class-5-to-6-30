@@ -1,4 +1,4 @@
-import requests
+# import requests
 
 def stocks():
     url = "https://api.freeapi.app/api/v1/public/stocks?page=1&limit=2&inc=Symbol%2CName%2CMarketCap%2CCurrentPrice&query=tata"
